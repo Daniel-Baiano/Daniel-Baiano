@@ -6,6 +6,9 @@
   
 - ⚡ Fun fact: ATG the mistery of the unknown.
 
+I am majoring in bioinformatics at UFRGS.
+
+
 <!---
 Daniel-Baiano/Daniel-Baiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
